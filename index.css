@@ -1,0 +1,16 @@
+ol{
+    background-color: chocolate;
+    color: rgb(20, 50, 220);
+}
+ul{
+    background-color: chartreuse;
+}
+.one{
+    background-color: rgb(86, 209, 211);
+}
+ 
+h1{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
